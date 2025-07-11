@@ -1,3 +1,25 @@
+credentials.json
+.env
+
+# Python virtual environments
 venv/
+ENV/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+*.tmp
+
+# VS Code and IDEs
+.vscode/
+.idea/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
